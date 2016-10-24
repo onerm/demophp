@@ -1,3 +1,3 @@
 <?php
 
-echo "HOLA MUNDO DESDE OPENSHIFT";
+echo "HOLA GS DESDE OPENSHIFT";
